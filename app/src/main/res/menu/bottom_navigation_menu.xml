@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item android:id="@+id/admin_movies"
+            android:icon="@drawable/ic_movie"
+            android:title="Film"
+            app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/admin_users"
+        android:icon="@drawable/ic_people"
+        android:title="Korisnici"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/admin_logout"
+        android:icon="@drawable/ic_logout"
+        android:iconTint="#FEFEFE"
+        android:title="Izlogujte se"
+        app:showAsAction="ifRoom|withText" />
+
+</menu>
