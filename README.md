@@ -2,7 +2,7 @@
 Android application *filmo.we* is a social application based on movie tastes.
 
 Docs given in repo.
-##TLDR;
+## TLDR;
 2 roles-
 1. User
 2. Administrator
